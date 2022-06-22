@@ -1,6 +1,6 @@
 Hi everyone 👋
 
-I'm a 21-year-old web developer from the Perú, who loves create things for the internet. I mainly code in JavaScript and Python, but I am always learning. My most recent project [candidatos.pe](https://candidatos.pe), which is a webpage that share information about peruvian politicians.
+I'm a 23-year-old web developer from the Perú, who loves create things for the internet. I mainly code in JavaScript and Python, but I am always learning. My most recent project [candidatos.pe](https://candidatos.pe), which is a webpage that share information about peruvian politicians.
 
 <!--
 **lout33/lout33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ I'm a 21-year-old web developer from the Perú, who loves create things for the 
 - HTML,CSS,SCSS
 - Node.js,Express
 - MySQL,Postgres
-- Amazon Web Services
+- AWS,GCP
 
 
 ### Application Development
@@ -55,8 +55,8 @@ I'm a 21-year-old web developer from the Perú, who loves create things for the 
 
 ## What I'm currently learning 📚
 
-- Machine Learning (Scikit-Learn,Keras)
-- Software Architect (Docker,Kubernetes)
+- Web3(Etherium)
+- Computer Graphics(Unity,three.js)
 
 ## Projects I'm the most proud of
 
