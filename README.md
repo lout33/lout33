@@ -1,6 +1,7 @@
 Hi everyone 👋
 
-I'm a web developer, who loves create things for the internet. I mainly code in JavaScript and Python, but I am always learning. My most recent project [candidatos.pe](https://candidatos.pe), which is a webpage that share information about peruvian politicians.
+I'm a web developer, who loves create things for the internet. 
+
 
 <!--
 **lout33/lout33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
