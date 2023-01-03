@@ -1,5 +1,4 @@
 Hi everyone 👋
 
-
-[Linkedin](https://github.com/Datoss-Incorruptibles) |
+[Linkedin](https://www.linkedin.com/in/luis-yupanqui-3555a8141/)
 
