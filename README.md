@@ -17,7 +17,7 @@ Passionate about: Artificial Intelligence
 
 # Pet projects
 
-- Blender Addon: I made a blender add to  generate of videos of comparations
+- Blender Addon: I made a blender add to  generate 3d videos of comparison
   
     ● Store:
         - https://data4people.gumroad.com/l/yugce
