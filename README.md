@@ -18,10 +18,7 @@ Passionate about: Artificial Intelligence
 # Pet projects
 
 - Blender Addon: I made a blender add to  generate 3d videos of comparison
-  
-    ● Store:
-        - https://data4people.gumroad.com/l/yugce
-        - https://blendermarket.com/products/generate-bars-3d-data-visualization-and-comparison-addon-for-blender-pro-version
+- Web version live: https://3dcomparisonvideos.com/
 
 - Contribute to Open Source: Add Azure TTS to a extension of chrome
   
