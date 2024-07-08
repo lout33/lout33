@@ -8,7 +8,7 @@ Region: South America
 
 Languages: Spanish, English
 
-Hobbies: Piano, Gym, Motorcycles
+Hobbies: Motorcycles, 
 
 I like to talks about: AI, Web3, VR, 3D, Music, Games
 
