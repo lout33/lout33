@@ -1,15 +1,5 @@
 Hi everyone 👋
 
-Name: Fernando
-
-Age: 24
-
-Region: South America
-
-Languages: Spanish, English
-
-Hobbies: Motorcycles, 
-
 I like to talks about: AI, Web3, VR, 3D, Music, Games
 
 Passionate about: Artificial Intelligence
