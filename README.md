@@ -1,6 +1,6 @@
 Hi everyone 👋
 
-Stuff:
+Stuff:  
 ESP 32 AI voice: https://www.youtube.com/watch?v=pYbnEi_xh0M   
 3D Video Animation: https://www.3dcomparisonvideos.com/   
 Game AI: https://survive-ai-game.vercel.app/  
