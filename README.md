@@ -1,6 +1,6 @@
 Hi everyone 👋
 
-Apps:
+Apps:  
 Infinite Canvas VS Extension: https://marketplace.visualstudio.com/items?itemName=LuisFernando.infinite-canvas  
 HumOS Canvas: https://humos-canvas.vercel.app/  
 ESP 32 AI voice: https://www.youtube.com/watch?v=pYbnEi_xh0M   
