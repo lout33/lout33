@@ -1,6 +1,7 @@
 Hi everyone 👋
 
 Apps:  
+Canvas + Agents : https://image-creator-agent.vercel.app/
 Ai council + agents: https://ai-brainstorm-blue.vercel.app/
 Infinite Canvas VS Extension: https://marketplace.visualstudio.com/items?itemName=LuisFernando.infinite-canvas  
 HumOS Canvas: https://humos-canvas.vercel.app/  
