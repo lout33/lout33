@@ -1,56 +1,14 @@
 # Luis Fernando Yupanqui
 
-**AI Engineer | Full-Stack Developer | 5+ Years**
+AI Engineer shipping products from embedded C++ to cloud APIs.
 
-I ship AI products end-to-end — from embedded C++ on microcontrollers to full-stack web apps with real-time inference.
+## Projects
 
----
+| Project | What | Links |
+|---------|------|-------|
+| **Canvas Agent** | LLM agents + image/video generation | [Demo](https://canvas-agent.vercel.app) · [Code](https://github.com/lout33/canvas-agent) |
+| **ESP32 AI Assistant** | Voice assistant on $10 hardware | [Video](https://youtube.com/watch?v=pYbnEi_xh0M) · [Code](https://github.com/lout33/ai_assistant_esp32) |
+| **Infinite Canvas VSCode** | 36+ stars, 500+ installs | [Marketplace](https://marketplace.visualstudio.com/items?itemName=LuisFernando.infinite-canvas) · [Code](https://github.com/lout33/infinite_canvas_vscode) |
+| **AI Brainstorm** | Multi-model orchestration, Council Mode | [Demo](https://ai-brainstorm-blue.vercel.app) · [Code](https://github.com/lout33/ai_brainstorm) |
 
-## Featured Projects
-
-### Canvas Agent — AI Creative Studio
-Full-stack AI app: LLM agents + image/video generation on an infinite canvas.
-
-**[Live Demo](https://canvas-agent.vercel.app)** | [GitHub](https://github.com/lout33/canvas-agent)
-
-`JavaScript` `Gemini API` `Veo 3` `Google Cloud Run` `Docker`
-
----
-
-### ESP32 AI Voice Assistant
-AI voice assistant running on $10 ESP32 hardware. Wake-word detection, real-time voice commands, ChatGPT integration.
-
-**[Demo Video](https://youtube.com/watch?v=pYbnEi_xh0M)** | [GitHub](https://github.com/lout33/ai_assistant_esp32)
-
-`C++` `ESP32-S3` `OpenAI API` `Embedded Systems`
-
----
-
-### Infinite Canvas VSCode
-VSCode extension for visual thinking. **36+ stars, 500+ installs.**
-
-**[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=LuisFernando.infinite-canvas)** | [GitHub](https://github.com/lout33/infinite_canvas_vscode)
-
-`TypeScript` `VSCode API`
-
----
-
-### AI Brainstorm — Multi-Model Orchestration
-Query multiple LLMs simultaneously. Tree conversations, Council Mode, Agent System.
-
-**[Live Demo](https://ai-brainstorm-blue.vercel.app)** | [GitHub](https://github.com/lout33/ai_brainstorm)
-
-`JavaScript` `Multiple LLM APIs`
-
----
-
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lout33&show_icons=true&theme=dark&hide_border=true)
-
----
-
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/luis-yupanqui)
-- [Portfolio](https://luisfernandoyt.vercel.app)
+[LinkedIn](https://linkedin.com/in/luis-yupanqui) · [Portfolio](https://luisfernandoyt.vercel.app)
