@@ -12,3 +12,5 @@ AI Engineer shipping products from embedded C++ to cloud APIs.
 | **AI Brainstorm** | Multi-model orchestration, Council Mode | [Demo](https://ai-brainstorm-blue.vercel.app) · [Code](https://github.com/lout33/ai_brainstorm) |
 
 [LinkedIn](https://linkedin.com/in/luis-yupanqui) · [Portfolio](https://luisfernandoyt.vercel.app)
+
+<a href="https://www.buymeacoffee.com/lout33" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
