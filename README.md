@@ -1,4 +1,3 @@
-# Luis Fernando Yupanqui
 
 > Building AI systems and studying how they behave. 632+ stars on Claude Life Assistant.
 
