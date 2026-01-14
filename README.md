@@ -10,6 +10,6 @@
 | Canvas Agent | LLM + image/video generation | Demo (https://canvas-agent.vercel.app) · Code (https://github.com/lout33/canvas-agent) |
 | ESP32 AI Assistant | Voice AI on $10 hardware | Video (https://youtube.com/watch?v=pYbnEi_xh0M) · Code (https://github.com/lout33/ai_assistant_esp32) |
 
-[LinkedIn](https://linkedin.com/in/luis-yupanqui) · [Portfolio](https://luisfernandoyt.vercel.app)
+[LinkedIn](https://linkedin.com/in/luis-yupanqui) · [Portfolio](https://luisfernandoyt.vercel.app)   [Youtube](https://www.youtube.com/@code4fun677) 
 
 <a href="https://www.buymeacoffee.com/lout33" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
