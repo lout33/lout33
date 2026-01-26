@@ -5,7 +5,7 @@
 - **632+ GitHub stars** on Claude Life Assistant (top 0.1% of GitHub projects)
 - **HN frontpage** — 187 points, 8,300+ sessions, international press (Gigazine Japan)
 - **4B+ images/year** — Built real-time CV systems at Deepview (AWS, Kubernetes)
-- **Full rewrites in days** — Not months
+- **AI-augmented development** — I orchestrate multiple AI agents to ship 10x faster
 
 ## Projects
 
