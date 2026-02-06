@@ -25,7 +25,3 @@ Python · TypeScript · Node.js · FastAPI · React · AWS · Kubernetes · Terr
 [LinkedIn](https://linkedin.com/in/luis-yupanqui) · [Portfolio](https://luisfernandoyt.vercel.app) · [YouTube](https://www.youtube.com/@code4fun677) · [Substack](https://substack.com/@fernandoyt)
 
 ---
-
-**Looking for AI Engineer roles.**
-
-lyupanqui99@gmail.com
