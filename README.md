@@ -3,7 +3,7 @@
 **AI Engineer. I ship fast.**
 
 - **632+ GitHub stars** on Claude Life Assistant (top 0.1% of GitHub projects)
-- **HN frontpage** — 187 points, 8,300+ sessions, international press (Gigazine Japan)
+- **HN frontpage - So long sucker** — 187 points, 8,300+ sessions, international press (Gigazine Japan)
 - **4B+ images/year** — Built real-time CV systems at Deepview (AWS, Kubernetes)
 - **AI-augmented development** — I orchestrate multiple AI agents to ship 10x faster
 
