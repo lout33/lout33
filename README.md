@@ -1,6 +1,6 @@
 # Luis Fernando Yupanqui
 
-**26-year-old Peruvian builder. Ships games, AI systems, and hardware. Fast, publicly, across domains.**
+**Builder. Ships games, AI systems, and hardware. Fast, publicly, across domains.**
 
 - **660+ GitHub stars** on Symbiotic AI -- a personal AI ecosystem built on markdown files (top 0.1% of GitHub projects)
 - **HN frontpage** -- So Long Sucker, 187 points, 8,300+ sessions, international press (Gigazine Japan)
