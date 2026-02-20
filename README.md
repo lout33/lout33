@@ -22,6 +22,6 @@ Python · TypeScript · Node.js · FastAPI · React · AWS · Kubernetes · Terr
 
 ## Links
 
-[LinkedIn](https://linkedin.com/in/luis-yupanqui) · [Portfolio](https://luisfernandoyt.vercel.app) · [YouTube](https://www.youtube.com/@code4fun677) · [Substack](https://substack.com/@fernandoyt)
+[LinkedIn](https://linkedin.com/in/luis-yupanqui) · [Portfolio](https://luisfernandoyt.makestudio.app/) · [YouTube](https://www.youtube.com/@code4fun677) · [Substack](https://substack.com/@fernandoyt)
 
 ---
