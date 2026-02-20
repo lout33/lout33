@@ -11,7 +11,7 @@
 
 | Project | Results | Links |
 |---------|---------|-------|
-| **Symbiotic AI** | 660+ stars, top 0.1% GitHub, HN frontpage | [Site](https://symbiotic.makestudio.app) · [Code](https://github.com/lout33/claude_life_assistant) |
+| **Symbiotic AI** | 660+ stars, top 0.1% GitHub | [Site](https://symbiotic.makestudio.app) · [Code](https://github.com/lout33/claude_life_assistant) |
 | **So Long Sucker** | HN frontpage (187 pts), 8K+ users, 162 games, 15K AI decisions | [Demo](https://so-long-sucker.vercel.app) · [Code](https://github.com/lout33/so-long-sucker) |
 | **Canvas Agent** | LLM + Gemini + Veo video generation pipeline | [Demo](https://canvas-agent.vercel.app) · [Code](https://github.com/lout33/canvas-agent) |
 | **ESP32 AI Assistant** | Voice AI on $10 hardware | [Video](https://youtube.com/watch?v=pYbnEi_xh0M) · [Code](https://github.com/lout33/ai_assistant_esp32) |
