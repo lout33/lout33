@@ -3,7 +3,7 @@
 **Builder. Ships games, AI systems, and hardware. Fast, publicly, across domains.**
 
 - **660+ GitHub stars** on Symbiotic AI -- a personal AI ecosystem built on markdown files (top 0.1% of GitHub projects)
-- **HN frontpage** -- So Long Sucker, 187 points, 8,300+ sessions, international press (Gigazine Japan)
+- **HN frontpage** -- So Long Sucker, 187 points, 8,300+ sessions, international press [(Gigazine Japan)](https://gigazine.net/gsc_news/en/20260121-ai-deception-betrayal-game/)
 - **4B+ images/year** -- Built real-time CV systems at Deepview (AWS, Kubernetes)
 - **AI-augmented development** -- I orchestrate multiple AI agents to ship 10x faster than solo
 
